@@ -16,6 +16,7 @@ body {
 }
 
 .travel {
+    color: white
     font-weight: 300;  
     font-size: 42px;
 }
@@ -25,6 +26,15 @@ body {
     font-size: 21px;
 }
 
+.images{
+    align-items: center;
+}
+
+.soon {
+    color: white
+    font-weight: 300;
+    font-size: 32px;
+}   
 footer {
     color: grey;
     text-align: right;
